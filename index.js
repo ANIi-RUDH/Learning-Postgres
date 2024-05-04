@@ -13,8 +13,8 @@ let theFlag=[]
 const db=new pg.Client({
   user:"postgres",
   host:"localhost",
-  database:"Form-1",
-  password:"jk32@12345AA",
+  database:"##########",
+  password:"#############",
   port:5432,
 })
 
